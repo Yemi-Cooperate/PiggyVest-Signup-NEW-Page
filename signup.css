@@ -4,10 +4,10 @@
 }
 
 body {
-    background : url("Sdesign1 1.png"),
+    background : url("Sdesign1.png"),
                  url("Sdesign2 1.png"),
                  url("Sdesign3 1.png"),
-                 url("Sdesign4 1.png");
+                 url("Sdesign4.png");
     background-position: left 0px top -2px,
                          right 0px top 5px, 
                          left -20px top 485px, 
